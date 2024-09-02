@@ -1,4 +1,4 @@
-This is a simple Privacy Policy Accordion Temple
+This is a simple Privacy Policy Accordion Template
 
 ## Technologies Used
 

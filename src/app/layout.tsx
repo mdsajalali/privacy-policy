@@ -20,10 +20,3 @@ export default function RootLayout({
     </html>
   );
 }
-
-git init
-git add .
-git commit -m "done"
-git branch -M main
-git remote add origin https://github.com/mdsajalali/privacy-policy.git
-git push -u origin main

@@ -125,6 +125,12 @@ const Privacy = () => {
                     </li>
                   </ul>
                 </div>
+                <div className="bg-gradient-to-r to-[#370099] hover:to-[#FF7F50] transition-all cursor-pointer mt-2 mb-1 p-[3px] rounded-md from-[#FF7F50] hover:from-[#370099] inline-block">
+                  <div className="  bg-[#110427]  px-5 py-2 rounded-md">
+                    <h1>Email Us</h1>
+                    <p>info@gmail.com</p>
+                  </div>
+                </div>
               </div>
             )}
           </div>
